@@ -66,7 +66,7 @@ $(document).ready(function() {
 	$('.jog-ul').css('width', ul3);
 
 	$('.seta3_direita').click(function(){
-		if(slide3 < (slides3 - 4)){
+		if(slide3 < (slides3 - 9)){
 			slide3 ++;
 			posicao3 = -(slide3 * largura3);
 			$('.jog-ul').css('left', posicao3);

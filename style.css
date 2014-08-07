@@ -9,9 +9,9 @@
 .seta_direita{position: absolute;z-index: 9999;top: 40%;right: 10px;cursor: pointer;font-size: 100px;}
 
 /*SLIDER 2*/
-.pel-ovh{width: 100%;float: left;height: 450px;overflow: hidden;position: relative;}
-.pel-ul{position: absolute;top: 0;left: 0;height: 450px;list-style: none;-webkit-transition: left 0.5s;-o-transition: left 0.5s;transition: left 0.5s;}
-.pel-ul .pel-li{width: 341px;height: 450px;float: left;}
+.pel-ovh{width: 1020px;height: 337px;overflow: hidden;position: relative;margin: 0 auto;}
+.pel-ul{position: absolute;top: 0;left: 0;height: 337px;list-style: none;-webkit-transition: left 0.5s;-o-transition: left 0.5s;transition: left 0.5s;}
+.pel-ul .pel-li{width: 255px;height: 337px;float: left;}
 
 .seta2_esquerda{position: absolute;z-index: 9999;top: 30%;left: 10px;cursor: pointer;font-size: 80px;}
 .seta2_direita{position: absolute;z-index: 9999;top: 30%;right: 10px;cursor: pointer;font-size: 80px;}
@@ -20,7 +20,7 @@
 /*SLIDER 3*/
 .jog-ovh{width: 100%;float: left;height: 240px;overflow: hidden;position: relative;}
 .jog-ul{position: absolute;top: 0;left: 0;height: 240px;list-style: none;-webkit-transition: left 0.5s;-o-transition: left 0.5s;transition: left 0.5s;}
-.jog-ul .jog-li{width: 180px;height: 450px;float: left;}
+.jog-ul .jog-li{width: 180px;height: 240px;float: left;}
 
 .seta3_esquerda{position: absolute;z-index: 9999;top: 30%;left: 10px;cursor: pointer;font-size: 80px;}
 .seta3_direita{position: absolute;z-index: 9999;top: 30%;right: 10px;cursor: pointer;font-size: 80px;}
