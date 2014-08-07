@@ -1,0 +1,26 @@
+*{margin: 0;padding: 0;}
+
+.slider-ovh{width: 100%;float: left;height: 667px;overflow: hidden;position: relative;}
+
+.slider-ul{width:2732px;position: absolute;top: 0;left: 0;height: 667px;list-style: none;-webkit-transition: left 0.5s;-o-transition: left 0.5s;transition: left 0.5s;}
+.slider-ul .slider-li{width: 1366px;height: 667px;float: left;}
+
+.seta_esquerda{position: absolute;z-index: 9999;top: 40%;left: 10px;cursor: pointer;font-size: 100px;}
+.seta_direita{position: absolute;z-index: 9999;top: 40%;right: 10px;cursor: pointer;font-size: 100px;}
+
+/*SLIDER 2*/
+.pel-ovh{width: 100%;float: left;height: 450px;overflow: hidden;position: relative;}
+.pel-ul{position: absolute;top: 0;left: 0;height: 450px;list-style: none;-webkit-transition: left 0.5s;-o-transition: left 0.5s;transition: left 0.5s;}
+.pel-ul .pel-li{width: 341px;height: 450px;float: left;}
+
+.seta2_esquerda{position: absolute;z-index: 9999;top: 30%;left: 10px;cursor: pointer;font-size: 80px;}
+.seta2_direita{position: absolute;z-index: 9999;top: 30%;right: 10px;cursor: pointer;font-size: 80px;}
+
+
+/*SLIDER 3*/
+.jog-ovh{width: 100%;float: left;height: 240px;overflow: hidden;position: relative;}
+.jog-ul{position: absolute;top: 0;left: 0;height: 240px;list-style: none;-webkit-transition: left 0.5s;-o-transition: left 0.5s;transition: left 0.5s;}
+.jog-ul .jog-li{width: 180px;height: 450px;float: left;}
+
+.seta3_esquerda{position: absolute;z-index: 9999;top: 30%;left: 10px;cursor: pointer;font-size: 80px;}
+.seta3_direita{position: absolute;z-index: 9999;top: 30%;right: 10px;cursor: pointer;font-size: 80px;}
